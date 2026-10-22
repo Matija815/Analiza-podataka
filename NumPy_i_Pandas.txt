@@ -1,0 +1,6 @@
+NumPy:
+
+A. Kreiranje nizova:
+
+np.array(list) -> Pretvara Python listu u NumPy niz
+np.zeros(shape) -> Pravi niz ispunjen nulama.
